@@ -56,7 +56,7 @@ html {
     rgb(251, 162, 79) -6.919%,
     rgb(255, 30, 30) 144.985%
   );
-  font-size: 0.6rem;
+  font-size: 0.8rem;
   color: rgb(255, 255, 255);
   font-weight: 600;
   cursor: pointer;
@@ -130,7 +130,7 @@ html {
 /* for mobile */
 @media screen and (max-width: 576px) {
   html {
-    font-size: 15px;
+    font-size: 18px;
   }
   /* responsive hero section start here */
   .banner-container {
@@ -141,9 +141,9 @@ html {
   .banner-details {
     width: 100%;
   }
-  .banner-details button {
+  /* .banner-details button {
     padding: 0.6rem 1.5rem;
-  }
+  } */
   .banner-image {
     width: 100%;
   }
